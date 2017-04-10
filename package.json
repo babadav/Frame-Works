@@ -1,0 +1,11 @@
+{
+  "name": "gulp-tut",
+  "version": "1.0.0",
+  "description": "gulpt tutorial ",
+  "main": "04-10-17",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Babayev",
+  "license": "ISC"
+}
